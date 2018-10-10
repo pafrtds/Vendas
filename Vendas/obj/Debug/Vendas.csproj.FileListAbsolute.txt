@@ -1,0 +1,13 @@
+E:\Vendas\Vendas\bin\Debug\Vendas.exe.config
+E:\Vendas\Vendas\bin\Debug\Vendas.exe
+E:\Vendas\Vendas\bin\Debug\Vendas.pdb
+E:\Vendas\Vendas\obj\Debug\Vendas.csprojAssemblyReference.cache
+E:\Vendas\Vendas\obj\Debug\Vendas.frmInicio.resources
+E:\Vendas\Vendas\obj\Debug\Vendas.Properties.Resources.resources
+E:\Vendas\Vendas\obj\Debug\Vendas.csproj.GenerateResource.cache
+E:\Vendas\Vendas\obj\Debug\Vendas.csproj.CoreCompileInputs.cache
+E:\Vendas\Vendas\obj\Debug\Vendas.exe
+E:\Vendas\Vendas\obj\Debug\Vendas.pdb
+E:\Vendas\Vendas\obj\Debug\Vendas.frmLogin.resources
+E:\Vendas\Vendas\obj\Debug\Vendas.frmCadcliente.resources
+E:\Vendas\Vendas\obj\Debug\Vendas.frmGerenciador.resources
